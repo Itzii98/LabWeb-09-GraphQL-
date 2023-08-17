@@ -1,0 +1,4 @@
+npm init -y
+npm install apollo-server firebase-admin
+añadir la clave del proyecto de firebase .json (clave-privada.json)
+node index.js
